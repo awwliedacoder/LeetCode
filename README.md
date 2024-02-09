@@ -9,5 +9,8 @@ I used Python today, I won't use Python tommorrow.
 
 Intensions are to learn currently.
 
-*TypeScript
-*Java
+TypeScript
+Java
+Python
+
+(js)
