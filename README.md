@@ -19,4 +19,4 @@ Python
 
 i want to cry.
 
-<img src=""https://slang.net/img/slang/md/peeposad_7110.jpg>
+<img src="https://slang.net/img/slang/md/peeposad_7110.jpg ">
